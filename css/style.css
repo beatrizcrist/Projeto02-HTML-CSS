@@ -292,7 +292,7 @@ padding: 0 20px 20px 0;
 }
 .servico p,
 .servico h3 {
-    width: 68%;
+    width: 60%;
     padding: 10px 0 10px 10px;
     float: left;
 }
@@ -323,6 +323,7 @@ padding: 0 20px 20px 0;
     width: 100%;
     float: left;
     padding: 20px 8%;
+    text-align: center;
 }
 .principal-contato h2 {
     margin-bottom: 25px;
